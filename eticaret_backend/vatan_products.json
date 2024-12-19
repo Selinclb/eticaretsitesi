@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Lenovo Ideapad Slim 3 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-15.6inc-W11",
+    "price": 19999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/lenovo-ideapad-slim-3-12-nesil-core-i5-12450h-8gb-512gb-ssd-15-6inc-w11-147059.html"
+  },
+  {
+    "name": "Msi Thin 15 12.Nesil Core i5 12450H-RTX4050 6Gb-16Gb-512Gb Ssd-15.6inc-W11",
+    "price": 36999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/msi-thin-15-12-nesil-core-i5-12450h-rtx4050-6gb-16gb-512gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Msi Thin 15 12.Nesil Core i5 12450H-RTX3050 4Gb-16Gb-512Gb Ssd-15.6inc-W11",
+    "price": 29999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/msi-thin-15-12-nesil-core-i5-12450h-rtx3050-4gb-16gb-512gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Casper Nirvana X600 12.Nesil Core i7 12700H-16Gb-500Gb Ssd-15.6inc-W11",
+    "price": 23999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/casper-nirvana-x600-12-nesil-core-i7-12700h-16gb-500gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Huawei Matebook D16 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-16inc-W11",
+    "price": 22999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/huawei-matebook-d16-12-nesil-core-i5-12450h-8gb-512gb-ssd-16inc-w11-142885.html"
+  },
+  {
+    "name": "Asus Vivobook 15 13.Nesil Core i5 1335U-8Gb-512Gb Ssd-15.6inc-W11",
+    "price": 18999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/asus-vivobook-15-13-nesil-core-i5-1335u-8gb-512gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Lenovo Ideapad 3 12.Nesil Core i3 1215U-8Gb-256Gb Ssd-15.6inc-W11",
+    "price": 13999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/lenovo-ideapad-3-12-nesil-core-i3-1215u-8gb-256gb-ssd-15-6inc-w11-147060.html"
+  },
+  {
+    "name": "Asus Vivobook 15 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-W11",
+    "price": 17499.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/asus-vivobook-15-13-nesil-core-i5-1235u-8gb-512gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Lenovo Ideapad Slim 3 13.Nesil Core i7 13620H-16Gb-512Gb Ssd-15.6inc-W11",
+    "price": 34999.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/lenovo-ideapad-slim-3-13-nesil-core-i5-13620h-16gb-512gb-ssd-15-6inc-w11.html"
+  },
+  {
+    "name": "Asus Zenbook 14 Ux3402 13.Nesil Core i5 13500H-8Gb-512Gb Ssd-14inc-W11",
+    "price": 28499.0,
+    "category": "laptop",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/asus-zenbook-14-ux3402-13-nesil-core-i5-13500h-16gb-1tb-ssd-14inc-w11.html"
+  },
+  {
+    "name": "iPhone 13 128 Gb Akıllı Telefon Yıldız Işığı",
+    "price": 34999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/iphone-13-128-gb-akilli-telefon-yildiz-isigi.html"
+  },
+  {
+    "name": "iPhone 13 128 Gb Siyah",
+    "price": 34999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/iphone-13-akilli-telefon.html"
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 5g 8/256 Gb Akıllı Telefon Grafit",
+    "price": 29999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/samsung-galaxy-s24-fe-5g-8-256-gb-akilli-telefon-grafit.html"
+  },
+  {
+    "name": "Xiaomi Redmi 13 8GB+256GB Akıllı Telefon Gece yarısı Siyahı",
+    "price": 9999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/xiaomi-redmi-13.html"
+  },
+  {
+    "name": "Xiaomi Redmi 13 8GB+256GB Akıllı Telefon Okyanus Mavisi",
+    "price": 9999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/xiaomi-redmi-13-8gb-256gb-akilli-telefon-okyanus-mavisi.html"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 8GB/256GB Siyah Akıllı Telefon",
+    "price": 10999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/xiaomi-redmi-note-13-8gb-256gb-siyah-akilli-telefon.html"
+  },
+  {
+    "name": "Samsung Galaxy A55 8/256 GB Akıllı Telefon Mavi",
+    "price": 19999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/samsung-galaxy-a55-8-256-gb-akilli-telefon-mavi.html"
+  },
+  {
+    "name": "iPhone 14 128 Gb Akıllı Telefon Yıldız Işığı",
+    "price": 42999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/iphone-14-128-gb-akilli-telefon-yildiz-isigi.html"
+  },
+  {
+    "name": "Samsung Galaxy A55 8/256 GB Akıllı Telefon Siyah",
+    "price": 19999.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/samsung-galaxy-a55-8-256-gb-akilli-telefon-siyah.html"
+  },
+  {
+    "name": "TCL Onetouch 4022S Tuşlu Telefon Gray",
+    "price": 2599.0,
+    "category": "telefon",
+    "specs": {},
+    "url": "https://www.vatanbilgisayar.com/tcl-onetouch-4022s-tuslu-telefon-gray.html"
+  }
+]
